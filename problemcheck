@@ -1,0 +1,3 @@
+int main (void);
+char character = 'A';
+int N = 234;
